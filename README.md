@@ -1,7 +1,7 @@
 # Environment_Simulator
 **Introduction**
 
-A imple simulator for AR or AutomousDrive. We can get GT semantic mask, GT depth Image, GT Data Association, GT Dynamic Object Motion. 
+A simple simulator for AR or AutomousDrive. We can get GT semantic mask, GT depth Image, GT Data Association, GT Dynamic Object Motion. 
 
 **Videos:**
 

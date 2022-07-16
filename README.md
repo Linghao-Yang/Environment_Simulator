@@ -6,11 +6,11 @@ A Simuple simulator for AR or AutomousDrive. We can get GT semantic mask, GT dep
 **Videos:**
 
 <p align="left">
-  <img src="Simulation_First_Perspective.png" width = "480" height = "360" />
+  <img src="Simulation_First_Perspective.png" width = "530" height = "360" />
 </p>
 
 <p align="left">
-  <img src="Simulation_Global_Perspective.png" width = "480" height = "360" />
+  <img src="Simulation_Global_Perspective.png" width = "530" height = "360" />
 </p>
 
 [Youtube](https://www.youtube.com/watch?v=OEHs7wQFf0Q)
